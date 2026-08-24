@@ -1,7 +1,9 @@
 # Stakeholder Memo: Does the 52-Week High Effect Still Hold?
 
 To: Portfolio Manager
+
 From: Junior Analyst
+
 Re: Replication test of the 52-week high anomaly
 
 ## The Pain Point
