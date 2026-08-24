@@ -30,7 +30,7 @@ This project uses descriptive/predictive research, because it is testing whether
 
 ## Lifecycle Mapping
 - Define a testable version of the 52-week high effect → Problem Framing & Scoping (Stage 01) → This README + stakeholder memo
-- 
+
 - Pull price data via API → Data Acquisition/Ingestion (Stage 04) → Raw data files in data/raw/
   
 - Store cleaned, joined dataset → Data Storage (Stage 05) → data/processed/merged_dataset.csv
